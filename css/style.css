@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.carousel-caption{
+    position: relative;
+    top:50%;
+}
+
+/*course plane css*/
+.card-body .card-title{
+    font-size: 25px;
+    padding: 10px 0;
+}
+.card-body .btn{
+   position: relative;
+   left: 40%;
+   top:10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
